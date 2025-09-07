@@ -29,8 +29,8 @@
 
     <distributionManagement>
         <repository>
-            <id>catnies-maven-repo</id>
-            <url>https://repo-eo.catnies.top/</url>
+            <id>nachorealms-repository-releases</id>
+            <url>https://repo-eo.catnies.top/releases</url>
         </repository>
     </distributionManagement>
 
