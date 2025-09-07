@@ -29,8 +29,8 @@
 
     <distributionManagement>
         <repository>
-            <id>chengzhimeow-maven-repo</id>
-            <url>https://maven.chengzhimeow.cn/releases/</url>
+            <id>catnies-maven-repo</id>
+            <url>https://repo-eo.catnies.top/</url>
         </repository>
     </distributionManagement>
 
